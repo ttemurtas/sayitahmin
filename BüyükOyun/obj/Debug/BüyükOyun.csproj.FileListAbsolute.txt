@@ -1,0 +1,6 @@
+C:\Users\İBİNE\Source\Repos\BüyükOyun\BüyükOyun\bin\Debug\BüyükOyun.exe.config
+C:\Users\İBİNE\Source\Repos\BüyükOyun\BüyükOyun\bin\Debug\BüyükOyun.exe
+C:\Users\İBİNE\Source\Repos\BüyükOyun\BüyükOyun\bin\Debug\BüyükOyun.pdb
+C:\Users\İBİNE\Source\Repos\BüyükOyun\BüyükOyun\obj\Debug\BüyükOyun.csprojAssemblyReference.cache
+C:\Users\İBİNE\Source\Repos\BüyükOyun\BüyükOyun\obj\Debug\BüyükOyun.exe
+C:\Users\İBİNE\Source\Repos\BüyükOyun\BüyükOyun\obj\Debug\BüyükOyun.pdb
